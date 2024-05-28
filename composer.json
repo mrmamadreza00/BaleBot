@@ -1,9 +1,9 @@
 {
-    "name": "telegram-bot/api",
-    "description": "PHP Wrapper for Telegram Bot API",
+    "name": "bale-bot-php/api",
+    "description": "PHP Wrapper for Bale Bot API",
     "keywords": [
         "php",
-        "telegram",
+        "bale",
         "bot",
         "bot api"
     ],
